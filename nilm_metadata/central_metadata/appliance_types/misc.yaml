@@ -97,3 +97,6 @@ subpanel:
 
 bouncy castle pump:
   parent: motor
+
+solar energy:
+  parent: appliance
