@@ -31,7 +31,7 @@ enable = true
 [tool.poetry]
 version = "0.0.0"
 [tool.poetry.dependencies]
-python = ">=3.11,<3.12"
+python = ">=3.13"
 pandas = "^2.0.3"
 PyYAML = "^6.0"
 
